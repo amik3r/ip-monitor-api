@@ -1,0 +1,15 @@
+{
+	"protocol": "ipv4",
+	"urls": {
+		"ipv4": "https://ip4.seeip.org/json",
+		"ipv6": "https://ip6.seeip.org/json",
+		// required only for the client app
+		"server_address": "api.amik3r.hu/ipapi" 
+	},
+	"update_interval": 3600,
+	"secret": {
+		"key": "CHANGE_ME",
+		"value": "CHANGE_ME_AS_WELL"
+	},
+	"logfile": "ipapi.log"
+}
