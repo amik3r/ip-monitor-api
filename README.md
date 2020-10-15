@@ -5,7 +5,7 @@ This little app is intended to homelab builders, or even web developers who don'
 
 
 ## Usage
-Host the server on a VPS or EC2 that has static IP address.
+Host the server on a VPS or EC2 with static IP address.
 
 Host the client on your home network.
 
